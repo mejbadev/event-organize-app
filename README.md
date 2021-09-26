@@ -1,12 +1,14 @@
 # Getting Started with Create React App
 
 This project is about international motivational event organize ticket selling website. People can buy ticket. They watch the speaker and his details then click buy ticket.
-Then the cart will show the name of speaker, total price and ticket number. 
+Then the cart will show the name of speaker, total price and ticket number. Using Data by creating myself.  
 
 ## Using Css
+
 Here I am using bootstrap and plain css
 
 ##Componants
+
 I am using Header, EventM, Cart, Speaker, Name componants.
 
 Runs the app in the development mode.\
