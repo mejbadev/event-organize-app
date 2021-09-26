@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Event Management and online ticket selling website
 
 This project is about international motivational event organize ticket selling website. People can buy ticket. They watch the speaker and his details then click buy ticket.
 Then the cart will show the name of speaker, total price and ticket number. Using Data by creating myself.  
