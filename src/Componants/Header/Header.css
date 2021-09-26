@@ -1,0 +1,5 @@
+.header {
+  background-image: url("../../images/coverpage.png");
+  background-size: cover;
+  height: 200px;
+}
